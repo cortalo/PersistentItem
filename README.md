@@ -10,11 +10,6 @@ This repo contains the algorithms of finding persistent items using cold filter 
 | Finding Persistent Item | PIE |
 
 
-### Requirements
-
-- The gather-and-report part of CF use SIMD instructions to achieve high speed, so the cpu must support SSE2 instruction set.
-- cmake >= 2.6
-- g++ (MSVC is not supported currently.)
 
 ### How to build
 
